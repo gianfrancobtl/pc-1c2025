@@ -1,0 +1,3 @@
+Idem UVA 10503, pero resolviendo el problema iterativamente con un árbol BFS, buscando escalar el algoritmo para resolver casos mas grandes.  El algoritmo debe retornar algun camino que resuelva el problema.
+
+No hay juez, la motivacion es practicar estos temas y explicar búsqueda bidireccional.
